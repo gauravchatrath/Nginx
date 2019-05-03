@@ -1,0 +1,5 @@
+As a system administrator with your organization, you've been tasked with setting up a new web server to serve static web assets. 
+Your organization mandates the use of CentOS 7 for all new servers, and you've decided to deploy the newest stable build of NGINX from the official NGINX repository.
+
+After you've installed NGINX, you'll need to ensure that it's running and will run automatically after a reboot. 
+Lastly, you must configure the server to handle requests for assets.example.com from the directory /var/www/assets.example.com/. Once you've tested the configuration, you're ready to notify the web developers in your organization.
